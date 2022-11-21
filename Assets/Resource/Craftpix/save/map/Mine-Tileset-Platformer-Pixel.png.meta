@@ -1,0 +1,1479 @@
+fileFormatVersion: 2
+guid: 413594e7d04bb9f48a9c6dd70a9c68f7
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mine-Tileset-Platformer-Pixel_0
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 782
+        width: 93
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c562bd5777cf49c41b159ddc3a6589cd
+      internalID: -1958365195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine-Tileset-Platformer-Pixel_1
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 782
+        width: 94
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a62f0c15bfa8911468c51e0d6e8df6d5
+      internalID: -949502079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine-Tileset-Platformer-Pixel_2
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 782
+        width: 93
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b468f503c0dad64fbf1f6049d03e05f
+      internalID: -755626387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine-Tileset-Platformer-Pixel_3
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 782
+        width: 94
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a60255d8248c8a447bab6979660a2637
+      internalID: -303591731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine-Tileset-Platformer-Pixel_4
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 782
+        width: 94
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faa44e3929330254d967483192204cf0
+      internalID: 192377993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine-Tileset-Platformer-Pixel_5
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 782
+        width: 92
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0693f9f68205b6541802b5bcbc225563
+      internalID: -1685596194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine-Tileset-Platformer-Pixel_6
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 828
+        width: 93
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ae9acc9374162d40b0546b6007a7f63
+      internalID: 1295388542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine-Tileset-Platformer-Pixel_7
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 828
+        width: 93
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7a2b9b728ff8114087392bab413287d
+      internalID: 284815669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine-Tileset-Platformer-Pixel_8
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 828
+        width: 94
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a0ed06137c20394b8a3fb098244632c
+      internalID: 1208834018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine-Tileset-Platformer-Pixel_9
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 782
+        width: 93
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e1113623eb4886478e320e83273fdd8
+      internalID: -155107130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine-Tileset-Platformer-Pixel_10
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 642
+        width: 92
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d69c3323500f5584c8c69a8b86a517d5
+      internalID: 1882953400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine-Tileset-Platformer-Pixel_11
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 642
+        width: 93
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76fb39d81169883458d7a7f8a973bbdd
+      internalID: -1021854239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine-Tileset-Platformer-Pixel_12
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 641
+        width: 93
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce60dae22b8fa5545a35d93bd5500289
+      internalID: -2081220118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine-Tileset-Platformer-Pixel_13
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 641
+        width: 93
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ec17813e5f378241820b06a5da2fa7b
+      internalID: 130775393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine-Tileset-Platformer-Pixel_14
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 642
+        width: 93
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cde124c38f1913d4a9ccf28476b6aa57
+      internalID: 1821439137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine-Tileset-Platformer-Pixel_15
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 642
+        width: 92
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9f40e05477b2e545ae38a669f886d99
+      internalID: -1734557898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine-Tileset-Platformer-Pixel_16
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 642
+        width: 93
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ef32e59dd2007d40960ea3f392f97aa
+      internalID: -887503096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine-Tileset-Platformer-Pixel_17
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 642
+        width: 93
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47241618e9347564c86ba4fc5d9d5e9d
+      internalID: 1745829491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine-Tileset-Platformer-Pixel_18
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 642
+        width: 93
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b3be0210df4bbe4492f9a1879981e39
+      internalID: 1131102130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine-Tileset-Platformer-Pixel_19
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 642
+        width: 93
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec452987ece9af74289f92cf6ba8abfe
+      internalID: -635863132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine-Tileset-Platformer-Pixel_20
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 503
+        width: 93
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef1fbb4ad7b0a5c47a0c4b2422da3180
+      internalID: 100493498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine-Tileset-Platformer-Pixel_21
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 503
+        width: 94
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d405198b1712b934db1027c73a28c778
+      internalID: -897271070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine-Tileset-Platformer-Pixel_22
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 503
+        width: 93
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b690338d187b8a4791f22cc31929614
+      internalID: -1581361476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine-Tileset-Platformer-Pixel_23
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 503
+        width: 94
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a5d4402910ae164a9c692f6df30e1f9
+      internalID: 1006318683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine-Tileset-Platformer-Pixel_24
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 503
+        width: 94
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e13c36d6ff59df945801b4f18eb42eba
+      internalID: -51238072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine-Tileset-Platformer-Pixel_25
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 503
+        width: 92
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e59d2e8b9364d854a9d85a5c86568b76
+      internalID: -1337859523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine-Tileset-Platformer-Pixel_26
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 503
+        width: 93
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afbceb9175d96204b91304ae80b8e793
+      internalID: -1409777542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine-Tileset-Platformer-Pixel_27
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 503
+        width: 93
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 959a86b385cba2645951aec513f47d04
+      internalID: 999992205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine-Tileset-Platformer-Pixel_28
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 503
+        width: 94
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d43a6f23bb2148f4d8b38210cb851d6a
+      internalID: 2107766471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine-Tileset-Platformer-Pixel_29
+      rect:
+        serializedVersion: 2
+        x: 1299
+        y: 503
+        width: 94
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc4fe0409d09afb4991f736db7456907
+      internalID: -623577612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine-Tileset-Platformer-Pixel_30
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 364
+        width: 93
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10ab6f28a387b3a40a8cb7e7f3bfc3c7
+      internalID: -1015290672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine-Tileset-Platformer-Pixel_31
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 364
+        width: 93
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d38f78ad3acac5499b12796c3f7cba5
+      internalID: -316729940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine-Tileset-Platformer-Pixel_32
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 364
+        width: 93
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5852be4e8c4fd6c48a05674730929116
+      internalID: 1682224314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine-Tileset-Platformer-Pixel_33
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 364
+        width: 94
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2e3b27cfabff724e8f436dec3c2e501
+      internalID: 326521497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine-Tileset-Platformer-Pixel_34
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 364
+        width: 93
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8070b91b8a5fb842bc2b0ba31573139
+      internalID: 514446145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine-Tileset-Platformer-Pixel_35
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 364
+        width: 92
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6299b47bf8edbc04c8a0321f13d52e2c
+      internalID: -1165832996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine-Tileset-Platformer-Pixel_36
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 364
+        width: 93
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f11ed4a4e5e85cd4490d335067624b35
+      internalID: 2083784751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine-Tileset-Platformer-Pixel_37
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 363
+        width: 93
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34fbb8d1401ac13408050c30986bd223
+      internalID: 385884882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine-Tileset-Platformer-Pixel_38
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 387
+        width: 93
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9059269458023ac43ad18f31d2506315
+      internalID: 380606042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine-Tileset-Platformer-Pixel_39
+      rect:
+        serializedVersion: 2
+        x: 1299
+        y: 364
+        width: 94
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1649f716d25947749a800c303fc3fc60
+      internalID: 961315750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine-Tileset-Platformer-Pixel_40
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 225
+        width: 92
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a441ce890eeda6d498b546028d34d839
+      internalID: -28653105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine-Tileset-Platformer-Pixel_41
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 225
+        width: 93
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e26a7e4593803ab4fa3ec56743d9ee0e
+      internalID: 1847679528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine-Tileset-Platformer-Pixel_42
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 224
+        width: 93
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 337d83acc81afaf4daf5de0971ccd522
+      internalID: -714077347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine-Tileset-Platformer-Pixel_43
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 225
+        width: 93
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85e34ee50fd48294796dbe84d42da003
+      internalID: -1009134146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine-Tileset-Platformer-Pixel_44
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 224
+        width: 93
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da1852032e8a23446afffbae20c4a1de
+      internalID: -1271253641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine-Tileset-Platformer-Pixel_45
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 225
+        width: 92
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c2d0db9056aee945ae1da0a5090432e
+      internalID: -1680862792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine-Tileset-Platformer-Pixel_46
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 225
+        width: 93
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 649f86d3f8066ec4284ee02a69d7d31d
+      internalID: 595842261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine-Tileset-Platformer-Pixel_47
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 224
+        width: 93
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cf157fb3bd070e4299ec597a2d7a78a
+      internalID: 1764124946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine-Tileset-Platformer-Pixel_48
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 226
+        width: 93
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d0cd708c18bf35439243060e562ef2a
+      internalID: 127424619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine-Tileset-Platformer-Pixel_49
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 225
+        width: 93
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0255a377364e29498e8f4b433dc4dad
+      internalID: 2003639943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine-Tileset-Platformer-Pixel_50
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 86
+        width: 93
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d40e0ea1bf9a734499ec7dd447a87ca8
+      internalID: 1591463075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine-Tileset-Platformer-Pixel_51
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 86
+        width: 94
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29bb7c6ed643c46478b0a864172d5610
+      internalID: 1614826717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine-Tileset-Platformer-Pixel_52
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 86
+        width: 93
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f150aa4adc2983749847b790c405262e
+      internalID: 1707352143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine-Tileset-Platformer-Pixel_53
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 86
+        width: 93
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f7de91081288c346a88c408bc6874af
+      internalID: 466304035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine-Tileset-Platformer-Pixel_54
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 86
+        width: 93
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3213d5363004c734f863fadbe7676aa8
+      internalID: -265194175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine-Tileset-Platformer-Pixel_55
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 86
+        width: 92
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddcd59659e84b814cb33b77c30343ebc
+      internalID: -382537537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine-Tileset-Platformer-Pixel_56
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 86
+        width: 93
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e777981e68dde34796735eb6558f091
+      internalID: -1125913588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine-Tileset-Platformer-Pixel_57
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 86
+        width: 93
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6446d56d26c74ba418f1cb7f61428910
+      internalID: -1066955825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine-Tileset-Platformer-Pixel_58
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 135
+        width: 48
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 273c6f1d94a39d94284e6fe112ba8398
+      internalID: 484574400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mine-Tileset-Platformer-Pixel_59
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 86
+        width: 93
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b01d69c3545fa1d4995ae22a215ac02c
+      internalID: 788337677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Mine-Tileset-Platformer-Pixel_1: -949502079
+      Mine-Tileset-Platformer-Pixel_10: 1882953400
+      Mine-Tileset-Platformer-Pixel_7: 284815669
+      Mine-Tileset-Platformer-Pixel_45: -1680862792
+      Mine-Tileset-Platformer-Pixel_31: -316729940
+      Mine-Tileset-Platformer-Pixel_38: 380606042
+      Mine-Tileset-Platformer-Pixel_44: -1271253641
+      Mine-Tileset-Platformer-Pixel_26: -1409777542
+      Mine-Tileset-Platformer-Pixel_4: 192377993
+      Mine-Tileset-Platformer-Pixel_3: -303591731
+      Mine-Tileset-Platformer-Pixel_14: 1821439137
+      Mine-Tileset-Platformer-Pixel_35: -1165832996
+      Mine-Tileset-Platformer-Pixel_18: 1131102130
+      Mine-Tileset-Platformer-Pixel_49: 2003639943
+      Mine-Tileset-Platformer-Pixel_47: 1764124946
+      Mine-Tileset-Platformer-Pixel_24: -51238072
+      Mine-Tileset-Platformer-Pixel_20: 100493498
+      Mine-Tileset-Platformer-Pixel_0: -1958365195
+      Mine-Tileset-Platformer-Pixel_22: -1581361476
+      Mine-Tileset-Platformer-Pixel_15: -1734557898
+      Mine-Tileset-Platformer-Pixel_50: 1591463075
+      Mine-Tileset-Platformer-Pixel_34: 514446145
+      Mine-Tileset-Platformer-Pixel_46: 595842261
+      Mine-Tileset-Platformer-Pixel_43: -1009134146
+      Mine-Tileset-Platformer-Pixel_41: 1847679528
+      Mine-Tileset-Platformer-Pixel_12: -2081220118
+      Mine-Tileset-Platformer-Pixel_27: 999992205
+      Mine-Tileset-Platformer-Pixel_48: 127424619
+      Mine-Tileset-Platformer-Pixel_23: 1006318683
+      Mine-Tileset-Platformer-Pixel_37: 385884882
+      Mine-Tileset-Platformer-Pixel_53: 466304035
+      Mine-Tileset-Platformer-Pixel_51: 1614826717
+      Mine-Tileset-Platformer-Pixel_9: -155107130
+      Mine-Tileset-Platformer-Pixel_55: -382537537
+      Mine-Tileset-Platformer-Pixel_42: -714077347
+      Mine-Tileset-Platformer-Pixel_2: -755626387
+      Mine-Tileset-Platformer-Pixel_39: 961315750
+      Mine-Tileset-Platformer-Pixel_54: -265194175
+      Mine-Tileset-Platformer-Pixel_52: 1707352143
+      Mine-Tileset-Platformer-Pixel_57: -1066955825
+      Mine-Tileset-Platformer-Pixel_16: -887503096
+      Mine-Tileset-Platformer-Pixel_25: -1337859523
+      Mine-Tileset-Platformer-Pixel_19: -635863132
+      Mine-Tileset-Platformer-Pixel_28: 2107766471
+      Mine-Tileset-Platformer-Pixel_56: -1125913588
+      Mine-Tileset-Platformer-Pixel_32: 1682224314
+      Mine-Tileset-Platformer-Pixel_36: 2083784751
+      Mine-Tileset-Platformer-Pixel_17: 1745829491
+      Mine-Tileset-Platformer-Pixel_6: 1295388542
+      Mine-Tileset-Platformer-Pixel_30: -1015290672
+      Mine-Tileset-Platformer-Pixel_29: -623577612
+      Mine-Tileset-Platformer-Pixel_59: 788337677
+      Mine-Tileset-Platformer-Pixel_58: 484574400
+      Mine-Tileset-Platformer-Pixel_5: -1685596194
+      Mine-Tileset-Platformer-Pixel_13: 130775393
+      Mine-Tileset-Platformer-Pixel_33: 326521497
+      Mine-Tileset-Platformer-Pixel_21: -897271070
+      Mine-Tileset-Platformer-Pixel_11: -1021854239
+      Mine-Tileset-Platformer-Pixel_40: -28653105
+      Mine-Tileset-Platformer-Pixel_8: 1208834018
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

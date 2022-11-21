@@ -1,0 +1,1479 @@
+fileFormatVersion: 2
+guid: 3176507f6674795419487a6093d623fc
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ruins-Game-Tileset_0
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 781
+        width: 94
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e08dab67f1796d40b70428a2af62788
+      internalID: 1827140357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins-Game-Tileset_1
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 782
+        width: 95
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 091c958331367c840aa18be23e55ea69
+      internalID: -400897032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins-Game-Tileset_2
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 782
+        width: 93
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbaba130f42295044ac3ef0834a89997
+      internalID: 1766240651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins-Game-Tileset_3
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 781
+        width: 95
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14dbbf8dd4f159a409b2b46736879884
+      internalID: -478412877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins-Game-Tileset_4
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 782
+        width: 94
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 710847f719a1c354585809b12ef547aa
+      internalID: -190846871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins-Game-Tileset_5
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 782
+        width: 93
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3de843e1c8e4c041b1d7625403264d6
+      internalID: -1749175546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins-Game-Tileset_6
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 828
+        width: 93
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 206353f84b5234b4d9129aa462561d7f
+      internalID: -136605335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins-Game-Tileset_7
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 828
+        width: 95
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46e09023e1667c94aa35d9188d5a0dbf
+      internalID: -946170160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins-Game-Tileset_8
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 828
+        width: 94
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc177e7eb953786409f71e5f75c15e53
+      internalID: -2059398253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins-Game-Tileset_9
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 782
+        width: 93
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 818b4690b9e889643912d0587f4ef66f
+      internalID: 569452723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins-Game-Tileset_10
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 641
+        width: 93
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79f1a4b0afec4a347894b11bbcc35c58
+      internalID: -1425480679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins-Game-Tileset_11
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 642
+        width: 93
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d36cc1add88c7a45a213623a68355e2
+      internalID: -122338673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins-Game-Tileset_12
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 642
+        width: 93
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f33f2c2351907347908703ca7b8fb54
+      internalID: -1994560707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins-Game-Tileset_13
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 641
+        width: 93
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba170f1429d704e4bb29b372f88b4c7e
+      internalID: 1034617269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins-Game-Tileset_14
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 642
+        width: 93
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbfd92898e791774a9b3d93961df97ab
+      internalID: 1161170464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins-Game-Tileset_15
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 641
+        width: 93
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a8f37c8a8b47e4479f15e24537c6c3f
+      internalID: -1609052004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins-Game-Tileset_16
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 641
+        width: 94
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6d9d1c31c4986c419a4149c0dafac2f
+      internalID: 1381787362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins-Game-Tileset_17
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 641
+        width: 94
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aebab89aab0d07443a3f04e1a94e9032
+      internalID: -1824412411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins-Game-Tileset_18
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 640
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 367ce83d33f8b0d40972e44d2460d9fb
+      internalID: 1160450662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins-Game-Tileset_19
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 642
+        width: 93
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa98cd029ed006640b7f6ad30ccb0938
+      internalID: 1462246602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins-Game-Tileset_20
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 503
+        width: 93
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06a6981e73a6a3447b3e6d76775f4421
+      internalID: 2064355931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins-Game-Tileset_21
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 503
+        width: 95
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53b4f095784d7a945a4210b06a569823
+      internalID: -1914554631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins-Game-Tileset_22
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 503
+        width: 93
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7d41a46d46b3114680d2dc283fd57ff
+      internalID: -30876264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins-Game-Tileset_23
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 503
+        width: 94
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 034050a080fd26145964c776a5bf7859
+      internalID: 329841907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins-Game-Tileset_24
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 503
+        width: 95
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df23d054e8ae1e945921c1ba64118b2f
+      internalID: -1574271584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins-Game-Tileset_25
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 503
+        width: 93
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 930fec89dc3b15147bc199dd3abf75ac
+      internalID: -175698160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins-Game-Tileset_26
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 503
+        width: 93
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ee25f7d0589e314d9808d12a2ec014e
+      internalID: 1380082507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins-Game-Tileset_27
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 503
+        width: 95
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a8f5c3716459e44183ba75975172322
+      internalID: 1963271505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins-Game-Tileset_28
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 502
+        width: 95
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 754f104f481aeea4ca8dba12a5e0ce1b
+      internalID: -1092801895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins-Game-Tileset_29
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 503
+        width: 93
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad4fc85fc9a29ff4b8c1875940ebfc42
+      internalID: -1816766691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins-Game-Tileset_30
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 363
+        width: 93
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebb481d090d7a7a45afa4664829d5d8f
+      internalID: 1063907878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins-Game-Tileset_31
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 363
+        width: 94
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05568299f1357ff4083a83f727b48a33
+      internalID: 1992707861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins-Game-Tileset_32
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 363
+        width: 95
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69bb6cccc116b714bae2ed504ddd2718
+      internalID: -702616279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins-Game-Tileset_33
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 363
+        width: 94
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34d3c9b2a15a9f841b56a6e7a59464b0
+      internalID: -1849210222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins-Game-Tileset_34
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 362
+        width: 98
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4195a089bb89a7428d18941916996b5
+      internalID: -163785634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins-Game-Tileset_35
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 360
+        width: 93
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27b70197f879ba648a66ec847deca5c9
+      internalID: -1448711742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins-Game-Tileset_36
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 362
+        width: 93
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8aeab4f25af24d4e816d7bb005a3a29
+      internalID: 1037708056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins-Game-Tileset_37
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 360
+        width: 93
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39c30d343b342794199f7551b3539d78
+      internalID: -1798129126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins-Game-Tileset_38
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 410
+        width: 93
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81876afc85bd25e4b8e8eb03e590a104
+      internalID: -1714943823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins-Game-Tileset_39
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 363
+        width: 93
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b1aaa41b763fed41aa214fce8f0f5e9
+      internalID: -500521453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins-Game-Tileset_40
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 224
+        width: 93
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7df186b97a341b648b3b85cb8a8fe31a
+      internalID: -2112345796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins-Game-Tileset_41
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 224
+        width: 95
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5da083214893c040a2d359c93493787
+      internalID: -1995879508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins-Game-Tileset_42
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 224
+        width: 93
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 523c1264cf765584d88061464b30198f
+      internalID: 767249360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins-Game-Tileset_43
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 224
+        width: 93
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72905ac6d18ce51478a4e473c140cec2
+      internalID: -1312915703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins-Game-Tileset_44
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 224
+        width: 97
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3e487db8750295489cc34f06db6b2b8
+      internalID: -322563430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins-Game-Tileset_45
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 224
+        width: 93
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bed6e6d029ea0514d8cf5867bf70e90d
+      internalID: -487923649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins-Game-Tileset_46
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 224
+        width: 93
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 099d25e3c71e089438f1b9980a5b7265
+      internalID: 1604997011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins-Game-Tileset_47
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 224
+        width: 94
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93894d35c64c58f4c9503100585ad345
+      internalID: -677985456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins-Game-Tileset_48
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 273
+        width: 92
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9fc45652193b4b4e99464d4db7089c6
+      internalID: -1511176081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins-Game-Tileset_49
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 221
+        width: 93
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4240d19bfb865941afb7e9aeb6fa13b
+      internalID: -1427619841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins-Game-Tileset_50
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 85
+        width: 94
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8efa0724d70de4a468d3208519607caf
+      internalID: -603502886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins-Game-Tileset_51
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 85
+        width: 94
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25bfbdc3f949f684cb60d08726b90cb5
+      internalID: 1955183435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins-Game-Tileset_52
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 85
+        width: 95
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5929be402ccf334db9ae085e7e81652
+      internalID: 924898760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins-Game-Tileset_53
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 85
+        width: 94
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f5e850dab747ce498b4aae0cf7bc5e4
+      internalID: 1128287446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins-Game-Tileset_54
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 83
+        width: 94
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cccaf58dc1ce844a8644aac79ed69cd
+      internalID: -1790415944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins-Game-Tileset_55
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 80
+        width: 93
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6ed7221630762b4ca2f69ebd97a314c
+      internalID: 381657348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins-Game-Tileset_56
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 85
+        width: 93
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8725939d8cc86ce42a980b8b40874ecc
+      internalID: 1055165582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins-Game-Tileset_57
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 85
+        width: 94
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83575ebff055da64f99e8f33c1195e94
+      internalID: 633393528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins-Game-Tileset_58
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 134
+        width: 92
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eac8d33a993b28e4986508fb591a25a4
+      internalID: -1690910697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins-Game-Tileset_59
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 85
+        width: 93
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3242ffcba3dda2d438cf66f578cce2bd
+      internalID: 1223874325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Ruins-Game-Tileset_25: -175698160
+      Ruins-Game-Tileset_35: -1448711742
+      Ruins-Game-Tileset_42: 767249360
+      Ruins-Game-Tileset_33: -1849210222
+      Ruins-Game-Tileset_0: 1827140357
+      Ruins-Game-Tileset_6: -136605335
+      Ruins-Game-Tileset_2: 1766240651
+      Ruins-Game-Tileset_36: 1037708056
+      Ruins-Game-Tileset_19: 1462246602
+      Ruins-Game-Tileset_23: 329841907
+      Ruins-Game-Tileset_43: -1312915703
+      Ruins-Game-Tileset_47: -677985456
+      Ruins-Game-Tileset_55: 381657348
+      Ruins-Game-Tileset_57: 633393528
+      Ruins-Game-Tileset_18: 1160450662
+      Ruins-Game-Tileset_46: 1604997011
+      Ruins-Game-Tileset_51: 1955183435
+      Ruins-Game-Tileset_13: 1034617269
+      Ruins-Game-Tileset_48: -1511176081
+      Ruins-Game-Tileset_39: -500521453
+      Ruins-Game-Tileset_7: -946170160
+      Ruins-Game-Tileset_40: -2112345796
+      Ruins-Game-Tileset_4: -190846871
+      Ruins-Game-Tileset_3: -478412877
+      Ruins-Game-Tileset_52: 924898760
+      Ruins-Game-Tileset_38: -1714943823
+      Ruins-Game-Tileset_49: -1427619841
+      Ruins-Game-Tileset_56: 1055165582
+      Ruins-Game-Tileset_11: -122338673
+      Ruins-Game-Tileset_27: 1963271505
+      Ruins-Game-Tileset_34: -163785634
+      Ruins-Game-Tileset_20: 2064355931
+      Ruins-Game-Tileset_32: -702616279
+      Ruins-Game-Tileset_37: -1798129126
+      Ruins-Game-Tileset_10: -1425480679
+      Ruins-Game-Tileset_54: -1790415944
+      Ruins-Game-Tileset_59: 1223874325
+      Ruins-Game-Tileset_53: 1128287446
+      Ruins-Game-Tileset_41: -1995879508
+      Ruins-Game-Tileset_28: -1092801895
+      Ruins-Game-Tileset_1: -400897032
+      Ruins-Game-Tileset_15: -1609052004
+      Ruins-Game-Tileset_17: -1824412411
+      Ruins-Game-Tileset_24: -1574271584
+      Ruins-Game-Tileset_14: 1161170464
+      Ruins-Game-Tileset_5: -1749175546
+      Ruins-Game-Tileset_30: 1063907878
+      Ruins-Game-Tileset_21: -1914554631
+      Ruins-Game-Tileset_9: 569452723
+      Ruins-Game-Tileset_26: 1380082507
+      Ruins-Game-Tileset_45: -487923649
+      Ruins-Game-Tileset_44: -322563430
+      Ruins-Game-Tileset_29: -1816766691
+      Ruins-Game-Tileset_8: -2059398253
+      Ruins-Game-Tileset_50: -603502886
+      Ruins-Game-Tileset_12: -1994560707
+      Ruins-Game-Tileset_16: 1381787362
+      Ruins-Game-Tileset_22: -30876264
+      Ruins-Game-Tileset_58: -1690910697
+      Ruins-Game-Tileset_31: 1992707861
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
