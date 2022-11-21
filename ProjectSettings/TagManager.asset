@@ -6,7 +6,8 @@ TagManager:
   tags:
   - wood
   - robben
-  - fishhut
+  - fish_hut
+  - town
   layers:
   - Default
   - TransparentFX

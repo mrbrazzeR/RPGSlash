@@ -1,7 +1,11 @@
-﻿namespace Runtime.GamePlay.Character.State
+﻿using UnityEngine;
+
+namespace Runtime.GamePlay.Character.State
 {
-    public interface ICharacterState
+    public abstract class CharacterState:MonoBehaviour
     {
-        ICharacterState RunCurrentState();
+        public static Vector3 Position;
+        public abstract CharacterState RunCurrentState();
+        public abstract void SetAnimator();
     }
 }
