@@ -4,8 +4,7 @@ namespace Runtime.GamePlay.Character.State
 {
     public abstract class CharacterState:MonoBehaviour
     {
-        public static Vector3 Position;
+        public Vector3 position;
         public abstract CharacterState RunCurrentState();
-        public abstract void SetAnimator();
     }
 }

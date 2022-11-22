@@ -21,7 +21,7 @@ namespace Runtime.GamePlay.Character.State
             return this;
         }
 
-        public override void SetAnimator()
+        public virtual void SetAnimator()
         {
             animator.SetBool(Walk, false);
             animator.SetBool(Fish, false);
@@ -47,7 +47,7 @@ namespace Runtime.GamePlay.Character.State
                 }
             }
 
-            if (closest != null) Position = closest.transform.position;
+            if (closest != null) base.position = closest.transform.position;
         }
     }
 }

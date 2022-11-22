@@ -13,8 +13,7 @@ namespace Runtime.GamePlay.Character.State
         public override CharacterState RunCurrentState()
         {
             SetAnimator();
-            parentObject.transform.position = Vector3.MoveTowards(transform.position, Position, 0.01f);
-            if (transform.position == Position) comeToBuilding = true;
+           MovingToBuilding();
             if (comeToBuilding)
             {
                 comeToBuilding = !comeToBuilding;
@@ -24,10 +23,16 @@ namespace Runtime.GamePlay.Character.State
             return this;
         }
 
-        public override void SetAnimator()
+        protected virtual void SetAnimator()
         {
             animator.SetBool(Walk, true);
             animator.SetBool(Fish, false);
+        }
+
+        private void MovingToBuilding()
+        {
+            parentObject.transform.position = Vector3.MoveTowards(transform.position, position, 0.01f);
+            if (transform.position == position) comeToBuilding = true;
         }
     }
 }

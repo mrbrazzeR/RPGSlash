@@ -12,7 +12,7 @@ namespace Runtime.GamePlay.Character.State
         public override CharacterState RunCurrentState()
         {
             SetAnimator();
-            Invoke(nameof(ChangeState),2f);
+            Invoke(nameof(HarvestDone),2f);
             if (harvestDone)
             {
                 harvestDone = !harvestDone;
@@ -23,13 +23,13 @@ namespace Runtime.GamePlay.Character.State
             return this;
         }
 
-        public override void SetAnimator()
+        public virtual void SetAnimator()
         {
             animator.SetBool(Walk, false);
             animator.SetBool(Fish, true);
         }
 
-        public void ChangeState()
+        public void HarvestDone()
         {
             harvestDone = !harvestDone;
         }
